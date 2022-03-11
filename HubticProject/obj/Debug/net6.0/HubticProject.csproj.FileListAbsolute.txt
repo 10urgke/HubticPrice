@@ -1,0 +1,15 @@
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/bin/Debug/net6.0/HubticProject
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/bin/Debug/net6.0/HubticProject.deps.json
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/bin/Debug/net6.0/HubticProject.runtimeconfig.json
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/bin/Debug/net6.0/HubticProject.dll
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/bin/Debug/net6.0/ref/HubticProject.dll
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/bin/Debug/net6.0/HubticProject.pdb
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/obj/Debug/net6.0/HubticProject.csproj.AssemblyReference.cache
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/obj/Debug/net6.0/HubticProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/obj/Debug/net6.0/HubticProject.AssemblyInfoInputs.cache
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/obj/Debug/net6.0/HubticProject.AssemblyInfo.cs
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/obj/Debug/net6.0/HubticProject.csproj.CoreCompileInputs.cache
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/obj/Debug/net6.0/HubticProject.dll
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/obj/Debug/net6.0/ref/HubticProject.dll
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/obj/Debug/net6.0/HubticProject.pdb
+/Users/onurgokce/RiderProjects/HubticProject/HubticProject/obj/Debug/net6.0/HubticProject.genruntimeconfig.cache
